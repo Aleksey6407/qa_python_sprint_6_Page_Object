@@ -19,3 +19,7 @@ class TestData:
         [7, 'Да, пока самокат не привезли. Штрафа не будет, объяснительной записки тоже не попросим. Все же свои.'],
         [8, 'Да, обязательно. Всем самокатов! И Москве, и Московской области.']
     ]
+    DZEN_URL = "https://dzen.ru/?yredirect=true"
+    QA_SCOOTER_URL = "https://qa-scooter.praktikum-services.ru/"
+    QA_SCOOTER_ORDER_URL = "https://qa-scooter.praktikum-services.ru/order"
+    QA_SCOOTER_STATUS_URL = "https://qa-scooter.praktikum-services.ru/track"
